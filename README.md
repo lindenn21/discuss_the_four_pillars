@@ -1,3 +1,5 @@
+# https://github.com/kashifniaxi/facebook_app-in-OOP-with-python/tree/main -- CREDIT TO KASHIFNIAXI, owner of the existing program I used.
+
 # Facebook-like Social Media Platform
 
 ## Overview
